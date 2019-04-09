@@ -5,6 +5,6 @@ public class Program
 {
 	public static void Main()
 	{
-		System.out.WriteLine("HelloWorld");
+		System.out.WriteLine("HolaWorldos");
 	}
 }
